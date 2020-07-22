@@ -1,8 +1,8 @@
-## Seyoung Bae @triplet02
+### Seyoung Bae @triplet02
 
-### Hello! 👋  
+#### Hello! 👋  
 
-## 🌱Languages  
+### 🌱Languages  
 * C
 * Java  
 * Python  
