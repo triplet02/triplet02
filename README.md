@@ -11,7 +11,7 @@ I'm an undergraduate student who majoring electronic and communication engineeri
 * SQL    (beginner)  
   
 ### 📮 How to reach me  
-* CV
+* CV : [Link](https://github.com/triplet02/triplet02/blob/master/CV_triplet02.pdf)
 * Email : <triplet02@naver.com>
 <!--
 **triplet02/triplet02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
