@@ -10,7 +10,7 @@
   
 ### :postbox:How to reach me  
 * CV
-* Email
+* Email : [triplet02@naver.com](triplet02@naver.com)
 <!--
 **triplet02/triplet02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
