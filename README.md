@@ -1,6 +1,6 @@
 ### Seyoung Bae @triplet02
 
-#### Hello! 👋  
+##### Hello! 👋  I'm ...
 
 ### 🌱Languages  
 * C
