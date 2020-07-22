@@ -4,13 +4,13 @@ Hello! 👋
 I'm an undergraduate student in electronic and communication engineering at Kwangwoon Univ. I'm also majoring data science, too.  
 
 
-### 🌱Languages  
+### 🌱 Languages  
 * C
 * Java  
 * Python  
 * SQL  
   
-### :postbox:How to reach me  
+### 📮 How to reach me  
 * CV
 * Email : <triplet02@naver.com>
 <!--
