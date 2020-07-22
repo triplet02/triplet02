@@ -5,10 +5,10 @@ I'm an undergraduate student in electronic and communication engineering at Kwan
 
 
 ### 🌱 Languages  
-* C
-* Java  
-* Python  
-* SQL  
+* C/C++  (intermediate/beginner)  
+* Java   (intermediate)  
+* Python (intermediate)  
+* SQL    (beginner)  
   
 ### 📮 How to reach me  
 * CV
