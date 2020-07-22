@@ -6,8 +6,11 @@
 * C
 * Java  
 * Python  
-* SQL
-
+* SQL  
+  
+### :postbox:How to reach me  
+* CV
+* Email
 <!--
 **triplet02/triplet02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
