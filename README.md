@@ -13,7 +13,7 @@ I'm an undergraduate student who majoring electronic and communication engineeri
 ### 📮 How to reach me  
 * CV : [Link](https://github.com/triplet02/triplet02/blob/master/CV_triplet02.pdf)
 * Email : <triplet02@naver.com>  
-https://github-readme-stats.vercel.app/api?username=triplet02&show_icons=true&hide_border=true
+![triplet02's github stats](https://github-readme-stats.vercel.app/api?username=triplet02&show_icons=true&hide_border=true)  
 <!--
 **triplet02/triplet02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
