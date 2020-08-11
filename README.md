@@ -5,7 +5,7 @@ I'm an undergraduate student who majoring electronic and communication engineeri
 
 
 ### 🌱 Languages  
-* C/C++  (intermediate/beginner)  
+* C/C++  (intermediate/intermediate)  
 * Java   (intermediate)  
 * Python (intermediate)  
 * SQL    (beginner)  
