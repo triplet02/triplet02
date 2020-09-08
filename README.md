@@ -3,6 +3,8 @@
 Hello! 👋  
 I'm an undergraduate student who majoring electronic and communication engineering, and minoring data science at Kwangwoon Univ.    
 
+### Publication  
+* [KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition](https://arxiv.org/abs/2009.03092)
 
 ### 🌱 Languages  
 * C/C++  (intermediate/intermediate)  
